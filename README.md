@@ -5,23 +5,24 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/Melman\_\_\_" target="_blank">
-    <img alt="Twitter: Melman\_\_\_" src="https://img.shields.io/twitter/follow/Melman\_\_\_.svg?style=social" />
+    <img alt="Twitter: Melman___" src="https://img.shields.io/twitter/follow/Melman\_\_\_.svg?style=social" />
   </a>
 </p>
 
 > A simple port checker written in python
 
 ## Install
+No dependencies required
 
 ```sh
-npm install
+git clone https://github.com/MelmanC/PortChecker.git
 ```
 
 ## Author
 
 👤 **Melman**
 
-* Twitter: [@Melman\_\_\_](https://twitter.com/Melman\_\_\_)
+* Twitter: [@Melman___](https://twitter.com/Melman___)
 * Github: [@MelmanC](https://github.com/MelmanC)
 
 ## Show your support
