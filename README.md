@@ -25,6 +25,8 @@ git clone https://github.com/MelmanC/PortChecker.git
 * Twitter: [@Melman___](https://twitter.com/Melman___)
 * Github: [@MelmanC](https://github.com/MelmanC)
 
+**Contact me on discord : Melman#6771
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
