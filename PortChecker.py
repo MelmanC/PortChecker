@@ -8,7 +8,7 @@ def scan():
     while port <= end:
         try:
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            s.settimeout(0.000001)
+            s.settimeout(0.04)
             conn = s.connect_ex((target, port))
             if conn == 0:
                 print('\033[92mLe port', port, 'est ouvert !\033[0m')
